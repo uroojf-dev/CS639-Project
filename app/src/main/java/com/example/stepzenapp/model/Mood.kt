@@ -1,3 +1,5 @@
+//Push 3 - Add Mood Data Model
+
 package com.example.stepzenapp.model
 
 data class Mood(
@@ -5,3 +7,5 @@ data class Mood(
     val moodType: String = "",
     val timestamp: Long = System.currentTimeMillis()
 )
+
+
