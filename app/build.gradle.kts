@@ -10,6 +10,8 @@ android {
         version = release(34)
     }
 
+
+
     defaultConfig {
         applicationId = "com.example.stepzenapp"
         minSdk = 24
