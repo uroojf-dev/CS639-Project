@@ -9,7 +9,8 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 
 @Composable
-fun HomeScreen() {
+fun HomeScreen(onMoodClick: () -> Unit)
+ {
     Column(
         modifier = Modifier
             .fillMaxSize()
@@ -27,4 +28,13 @@ fun HomeScreen() {
             fontSize = 16.sp
         )
     }
+}
+
+Spacer(modifier = Modifier.height(24.dp))
+
+Button(
+onClick = onMoodClick,
+modifier = Modifier.fillMaxWidth()
+) {
+    Text("Select Mood")
 }
