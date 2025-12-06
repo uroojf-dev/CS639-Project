@@ -27,5 +27,3 @@ You can view the full design document here:
 ## Team
 - Abubakar Tahir  
 - Urooj Fatima  
-- Abubakar Tahir  
-- Urooj Fatima  
