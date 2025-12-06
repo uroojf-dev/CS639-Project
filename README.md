@@ -13,17 +13,6 @@ You can read our full Idea Proposal & Research document here:
 You can view the full design document here:  
 [Design Document](https://docs.google.com/document/d/1A3ryHgZFJTj1FvI7khh9dTHmpgE4xKoloo3_Gt9mc3k/edit?usp=sharing)
 
-## Technologies & APIs
-
-- Kotlin  
-- Jetpack Compose  
-- Material Design 3  
-- Android Studio  
-- Firebase Authentication  
-- Firebase Firestore  
-- Google Fit API (Fitness API)  
-- Wger Workout API  
-
 ## Team
 - Abubakar Tahir  
 - Urooj Fatima  
