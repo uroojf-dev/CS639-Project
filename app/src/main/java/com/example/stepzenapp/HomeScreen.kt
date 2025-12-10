@@ -63,5 +63,17 @@ fun HomeScreen(
         ) {
             Text("View Mood History")
         }
+
+        //push 17-urooj-buttons
+        Button(onClick = { navController.navigate("waterInput") }) {
+            Text("Track Water")
+        }
+
+        Spacer(modifier = Modifier.height(16.dp))
+
+        Button(onClick = { navController.navigate("waterHistory") }) {
+            Text("Water History")
+        }
+
     }
 }
