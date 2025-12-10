@@ -29,3 +29,32 @@ fun MoodHistoryScreen(viewModel: MoodViewModel) {
         }
     }
 }
+
+
+// PUSH 10 — Add navigation to Mood History Update HomeScreen Add another button:
+
+Button(
+    onClick = onHistoryClick,
+    modifier = Modifier.fillMaxWidth()
+) {
+    Text("View Mood History")
+}
+
+
+Update function signature:
+fun HomeScreen(
+    onMoodClick: () -> Unit,
+    onHistoryClick: () -> Unit
+)
+
+Update MainActivity navigation:
+In MainActivity NavHost, add:
+composable("history") {
+    MoodHistoryScreen(viewModel)
+}
+
+And update HomeScreen call:
+HomeScreen(
+    onMoodClick = { navController.navigate("mood") },
+    onHistoryClick = { navController.navigate("history") }
+)
