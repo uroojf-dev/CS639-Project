@@ -1,7 +1,8 @@
 package com.example.stepzenapp
 
 import androidx.compose.foundation.layout.*
-import androidx.compose.material3.*
+import androidx.compose.material3.MaterialTheme
+import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
@@ -19,8 +20,12 @@ fun MoodHistoryScreen(viewModel: MoodViewModel) {
     ) {
         Text("Mood History", style = MaterialTheme.typography.headlineSmall)
 
-        for (mood in moods) {
-            Text("${mood.moodType} - ${mood.timestamp}")
+        if (moods.isEmpty()) {
+            Text("No moods recorded yet.")
+        } else {
+            for (mood in moods) {
+                Text("${mood.moodType} - ${mood.timestamp}")
+            }
         }
     }
 }

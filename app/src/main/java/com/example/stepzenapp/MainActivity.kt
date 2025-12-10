@@ -23,11 +23,15 @@ class MainActivity : ComponentActivity() {
                 ) {
                     composable("home") {
                         HomeScreen(
-                            onMoodClick = { navController.navigate("mood") }
+                            onMoodClick = { navController.navigate("mood") },
+                            onHistoryClick = { navController.navigate("history") }
                         )
                     }
                     composable("mood") {
                         MoodSelectionScreen(viewModel)
+                    }
+                    composable("history") {
+                        MoodHistoryScreen(viewModel)
                     }
                 }
             }

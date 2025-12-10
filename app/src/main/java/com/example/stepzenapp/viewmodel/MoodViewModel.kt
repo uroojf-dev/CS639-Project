@@ -1,6 +1,3 @@
-//Push 5-- Abubakar Tahir
-
-
 package com.example.stepzenapp.viewmodel
 
 import androidx.lifecycle.ViewModel
