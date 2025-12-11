@@ -20,6 +20,14 @@ class MainActivity : ComponentActivity() {
                 NavHost(
                     navController = navController,
                     startDestination = "home"
+                    // PUSH 22 — Navigation for Step Counter
+                    // Add inside NavHost
+                    composable("steps") {
+                        StepCounterScreen(viewModel = stepViewModel) {
+                            navController.popBackStack()
+                        }
+                    }
+
 
 
                 ) {
@@ -27,6 +35,10 @@ class MainActivity : ComponentActivity() {
                         HomeScreen(
                             onMoodClick = { navController.navigate("mood") },
                             onHistoryClick = { navController.navigate("history") }
+                            // Add this button in HomeScreen
+                            Button(onClick = { navController.navigate("steps") }) {
+                                Text("Track Steps")
+                            }
                         )
                     }
                     composable("mood") {
