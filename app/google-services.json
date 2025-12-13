@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "285992902222",
+    "project_id": "stepzen-45298",
+    "storage_bucket": "stepzen-45298.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285992902222:android:d3388dfe9845c090552d1f",
+        "android_client_info": {
+          "package_name": "com.example.HealthyMode"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOCD8RajLYS6O0od1C-D_INkGFkudFcNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
