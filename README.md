@@ -139,3 +139,17 @@ AI-generated meal suggestions
 Notification system
 
 Dark mode customization
+
+## Screenshots
+<img width="220" height="445" alt="Screenshot 2025-12-13 at 10 35 37 AM" src="https://github.com/user-attachments/assets/f36c2b06-662f-48c1-9ecd-dc85e249bc71" />
+
+![WhatsApp Image 2025-12-13 at 10 33 20 AM](https://github.com/user-attachments/assets/40d977f3-b2b8-4070-a9dd-574f901d3371)
+
+
+![WhatsApp Image 2025-12-13 at 10 33 10 AM](https://github.com/user-attachments/assets/83379f25-3922-420b-8bd8-b9cb24c81c5f)
+
+
+![WhatsApp Image 2025-12-13 at 10 32 52 AM](https://github.com/user-attachments/assets/184ccab2-9ce5-49b3-a0f3-7d01d74096fb)
+
+
+
