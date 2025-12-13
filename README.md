@@ -2,12 +2,12 @@
 
 ## Disclosure: 
 
-This app was created for CS 639 Mobile App Development Class at Pace University in Fall 2025.
+This app was created for the Project for CS 639 Mobile App Development Class at Pace University in Fall 2025.
 
 ## Team
 
-Urooj Fatima
-Mohammed Abubakar Tahir(https://github.com/iabubakartahir/CS639)
+# [Urooj Fatima](https://github.com/uroojf-dev/CS639-Project)
+# [Mohammed Abubakar Tahir](https://github.com/iabubakartahir/CS639)
 
 ## About The App
 
