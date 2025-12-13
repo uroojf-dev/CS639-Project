@@ -37,7 +37,7 @@ Instant counter showing total water consumed today
 
 Progress refreshes daily
 
-✔ Meal Logging
+# Meal Logging
 
 Type and save meals throughout the day
 
@@ -45,25 +45,25 @@ Delete meals easily
 
 All meals stored per user in the database
 
-✔ History View
+# History View
 
 See previous days’ water intake and meal logs
 
 Data retrieved from Firebase in real time
 
-✔ Authentication
+# Authentication
 
 Secure login and signup using Firebase Authentication
 
 Keeps users logged in across app restarts
 
-✔ Cloud Synchronization
+# Cloud Synchronization
 
 All data (water count + meals + history) saved in Firestore
 
 Automatic sync across devices
 
-✔ Clean Jetpack Compose UI
+# Clean Jetpack Compose UI
 
 Smooth animations, Material 3, and modern Compose layouts
 
@@ -82,19 +82,19 @@ Works on light and dark modes
 
 ## App Screens
 
-1. Home Screen
+# 1. Home Screen
 
 Signup
 
 Login
 
-2. Dashboard
+# 2. Dashboard
 
 Top section → Water Intake Tracker
 Bottom section → Meal Log + Add Meal Box
 Button → History
 
-3. History Screen
+# 3. History Screen
 
 Shows past entries
 
@@ -104,23 +104,23 @@ Fetched from Firestore
 
 ## Learning Experience & Challenges
 
-Jetpack Compose Learning Curve
+# Jetpack Compose Learning Curve
 
 Gained strong understanding of state management, composable functions, and UI recomposition.
 
-Navigation Between Screens
+# Navigation Between Screens
 
 Learned to pass data between composables and manage route structure.
 
-Firebase Integration
+# Firebase Integration
 
 Faced challenges adding Firebase to the project, fixing Gradle versions, JSON configuration, and syncing authentication & Firestore with Compose.
 
-Asynchronous Programming
+# Asynchronous Programming
 
 Used Kotlin Coroutines and suspend functions to read/write cloud data without blocking the UI.
 
-App Testing
+# App Testing
 
 Tested layout on different emulators and screen sizes within Android Studio.
 
