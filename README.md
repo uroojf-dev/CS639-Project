@@ -146,4 +146,6 @@ Dark mode customization
 
 ![WhatsApp Image 2025-12-13 at 10 32 52 AM](https://github.com/user-attachments/assets/184ccab2-9ce5-49b3-a0f3-7d01d74096fb) ![WhatsApp Image 2025-12-13 at 10 40 15 AM](https://github.com/user-attachments/assets/23e4f0ab-0e33-4b2f-b7af-b31ec7a9360e)
 
+<img width="244" height="468" alt="Screenshot 2025-12-13 at 11 05 04 AM" src="https://github.com/user-attachments/assets/79efa041-9771-4a37-880b-4252d747d5e1" />
+
 
