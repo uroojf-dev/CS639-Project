@@ -141,7 +141,6 @@ Notification system
 Dark mode customization
 
 ## Screenshots
-<img width="220" height="445" alt="Screenshot 2025-12-13 at 10 35 37 AM" src="https://github.com/user-attachments/assets/f36c2b06-662f-48c1-9ecd-dc85e249bc71" />
 
 ![WhatsApp Image 2025-12-13 at 10 33 20 AM](https://github.com/user-attachments/assets/40d977f3-b2b8-4070-a9dd-574f901d3371)
 
