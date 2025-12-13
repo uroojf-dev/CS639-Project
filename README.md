@@ -142,13 +142,8 @@ Dark mode customization
 
 ## Screenshots
 
-![WhatsApp Image 2025-12-13 at 10 33 20 AM](https://github.com/user-attachments/assets/40d977f3-b2b8-4070-a9dd-574f901d3371)
+![WhatsApp Image 2025-12-13 at 10 33 20 AM](https://github.com/user-attachments/assets/40d977f3-b2b8-4070-a9dd-574f901d3371) ![WhatsApp Image 2025-12-13 at 10 33 10 AM](https://github.com/user-attachments/assets/83379f25-3922-420b-8bd8-b9cb24c81c5f)
 
-
-![WhatsApp Image 2025-12-13 at 10 33 10 AM](https://github.com/user-attachments/assets/83379f25-3922-420b-8bd8-b9cb24c81c5f)
-
-
-![WhatsApp Image 2025-12-13 at 10 32 52 AM](https://github.com/user-attachments/assets/184ccab2-9ce5-49b3-a0f3-7d01d74096fb)
-
+![WhatsApp Image 2025-12-13 at 10 32 52 AM](https://github.com/user-attachments/assets/184ccab2-9ce5-49b3-a0f3-7d01d74096fb) ![WhatsApp Image 2025-12-13 at 10 40 15 AM](https://github.com/user-attachments/assets/23e4f0ab-0e33-4b2f-b7af-b31ec7a9360e)
 
 
