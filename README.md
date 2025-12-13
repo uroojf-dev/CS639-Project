@@ -20,7 +20,8 @@ With features like daily water logging, meal tracking, history view, and Firebas
 ## Idea Proposal 
 
 We provided one concept for the app in this proposal.
-👉 Access the full document
+
+ Access the full document
 [StepZen Idea Proposal](https://docs.google.com/document/d/15ZhHljdnuwb5VA18MsCNiPxTgsVtoU1xwxGHiqXkDXM/edit?tab=t.0)
 
 
@@ -30,7 +31,7 @@ You can view the full UI/UX design of this app:
 [Design Document](https://docs.google.com/document/d/1A3ryHgZFJTj1FvI7khh9dTHmpgE4xKoloo3_Gt9mc3k/edit?usp=sharing)
 
 ## Main Features
-✔ Water Intake Tracking
+# Water Intake Tracking
 
 Add cups of water with a single tap
 
