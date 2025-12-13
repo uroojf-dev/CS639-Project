@@ -28,7 +28,7 @@ We provided one concept for the app in this proposal.
 ## Design
 
 You can view the full UI/UX design of this app:
-[Design Document](https://docs.google.com/document/d/1A3ryHgZFJTj1FvI7khh9dTHmpgE4xKoloo3_Gt9mc3k/edit?usp=sharing)
+[Design Document](https://docs.google.com/document/d/1b0YcHOvCjZbMvjmG1peLfZg-ykPSEXww0Yrqj_1p_Uk/edit?usp=sharing)
 
 ## Main Features
 ### Water Intake Tracking
